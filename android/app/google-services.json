@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "560932385482",
+    "project_id": "patrolapp-c3eac",
+    "storage_bucket": "patrolapp-c3eac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:560932385482:android:cc045abaded3c5c45aba33",
+        "android_client_info": {
+          "package_name": "com.patrolapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "560932385482-8s1imotocf2uck0unnvtvoj14p80e6tu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.patrolapp",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "560932385482-sen2tm3gse8c5vqtsgt3v40likeaf1cp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB75rx-P0n6keFq49UHECO7ltaj5nQeleE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "560932385482-sen2tm3gse8c5vqtsgt3v40likeaf1cp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
